@@ -1,0 +1,44 @@
+1. Title: Neurocontrolled DataSet
+	
+2. Sources:
+     (a) Griselda Cortes Barrera
+     (b) Abraham Jorge Jiménez Alfaro  
+     (c) Jhacer Kharen Ruiz Garduño
+     (d) Claudia Teresa González Rámirez
+
+
+ 
+4. Relevant Information:
+    The paper describes the importance and use of neuroimaging using advanced techniques 
+    to explore the molecular processes and cognitive activities of the brain. 
+    Magnetoencephalography (MEG) and electroencephalography (EEG) are used to map
+    brain activity. The following are the activities to be carried out to achieve 
+    reading EEG biosignals with wireless connectivity tool used to 
+    Explore the human brain and provide access to brain data in a simple way 
+    and generate a brain mapping using a non-invasive technological device 
+    (EMOTIV X or Insight).
+
+5. Number of Instances: 1329 
+
+6. Number of Attributes: 26 
+
+7. Attribute Information:
+Timestamp: Numero de registro
+AF3/theta,AF3/alpha,AF3/betaL,AF3/betaH,AF3/gamma: Front region 
+AF4/theta,AF4/alpha,AF4/betaL,AF4/betaH,AF4/gamma: Front region 
+T7/theta,T7/alpha,T7/betaL,T7/betaH,T7/gamma: Temporal region
+T8/theta,T8/alpha,T8/betaL,T8/betaH,T8/gamma: Temporal region 
+Pz/theta,Pz/alpha,Pz/betaL,Pz/betaH,Pz/gamma: Parent region   
+
+
+
+8. Missing Attribute Values: None
+
+Summary Statistics:
+	         Min  Max   Mean    SD   Class Correlation
+   sepal length: 4.3  7.9   5.84  0.83    0.7826   
+    sepal width: 2.0  4.4   3.05  0.43   -0.4194
+   petal length: 1.0  6.9   3.76  1.76    0.9490  (high!)
+    petal width: 0.1  2.5   1.20  0.76    0.9565  (high!)
+
+9. Class Distribution: 33.3% for each of 3 classes.
